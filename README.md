@@ -1,2 +1,2 @@
-# project-1
-Trip Procrastinator
+# project-1: Trip Procrastinator
+
